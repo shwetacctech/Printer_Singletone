@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Printer_Singletone
 {
+
     public class Printer
     {
         public static Printer Printer_Instance;
